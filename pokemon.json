@@ -1,0 +1,43 @@
+{
+  "pokemon": [
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "type": ["Grass", "Poison"],
+      "level": 5,
+      "moves": ["Tackle", "Growl", "Vine Whip"],
+      "stats": {
+        "hp": 45,
+        "attack": 49,
+        "defense": 49,
+        "speed": 45
+      }
+    },
+    {
+      "id": 2, 
+      "name": "Charmander",
+      "type": ["Fire"],
+      "level": 5,
+      "moves": ["Scratch", "Growl", "Ember"],
+      "stats": {
+        "hp": 39,
+        "attack": 52,
+        "defense": 43,
+        "speed": 65
+      }
+    },
+    {
+      "id": 3,
+      "name": "Squirtle",
+      "type": ["Water"],
+      "level": 5,
+      "moves": ["Tackle", "Tail Whip", "Water Gun"],
+      "stats": {
+        "hp": 44,
+        "attack": 48,
+        "defense": 65,
+        "speed": 43
+      }
+    }
+  ]
+}
